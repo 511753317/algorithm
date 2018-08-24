@@ -1,0 +1,1 @@
+python neural_style.py --content content.jpg --styles style.jpg --checkpoint-iterations=10 --iterations=100 --checkpoint-output=out%s.jpg --output=outfinal.jpg
